@@ -18,8 +18,8 @@ A simple and interactive machine learning web app to predict house prices based 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Nikhita-14/House-Price-Prediction-Web-App-using-Streamlit-repo.git
-cd House-Price-Prediction-Web-App-using-Streamlit-repo
+git clone https://github.com/Nikhita-14/House-Price-Prediction-ML-Web-App-using-Streamlit.git
+cd House-Price-Prediction-ML-Web-App-using-Streamlit
 ```
 ### 2. Create Virtual Environment (Optional)
 ```bash
